@@ -4,7 +4,7 @@ Patched nerd-fonts for personal use.
 
 Nerd-Font: 3.0.2  
 Consolas: 7.0  
-Input-Mono: 0.0
+Input-Mono: 0.0  
 Recursive-Mono: 1.085  
 Source-Code-Pro: 2.042
 
